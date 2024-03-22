@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar: "profile.png"
   name: "Chaoqun Guo"
-  pronouns: "he/him" # example: "she/her"
-  bio: "Currently studying as a doctoral candidate, research direction is industrial control network anomaly detection"
+  pronouns: # example: "she/her"
+  bio: # "Currently studying as a doctoral candidate, research direction is industrial control network anomaly detection"
   location: "Beijing, China"
   employer: "Beijing Jiaotong University"
   uri: # URL
