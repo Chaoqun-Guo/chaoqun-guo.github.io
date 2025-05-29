@@ -15,6 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>
+
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎓 About Me
@@ -176,3 +179,13 @@ Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 - Proficient in programming languages such as Python and Shell, with comprehensive knowledge of the software development lifecycle, familiar with Agile and Waterfall development methodologies; proficient in version control using Git, capable of efficiently managing development processes and system maintenance.
 - Skilled in data analysis and artificial intelligence, proficient in using tools like Pandas, NumPy, Scikit-Learn, TensorFlow, and PyTorch for in-depth data analysis and building machine learning models; experienced in project management tools like JIRA and Confluence, capable of effectively planning, executing, and coordinating research projects.
 - Committed to continuous learning and growth, eager to leverage technical expertise and research experience to solve complex industrial control network security problems, providing reliable and innovative solutions for the industry.
+
+---
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=500&t=n&d=cSEOsZzVjrIXWpVbyFzjnNkVdLfWBn_nwmme8Tfkp3U&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
+<div class="page__footer-copyright,right">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.
+  Site PV: <span id="busuanzi_value_site_pv"></span> |
+  Site UV: <span id="busuanzi_value_site_uv"></span> |
+  Page PV: <span id="busuanzi_value_page_pv"></span>
+</div>
+---
