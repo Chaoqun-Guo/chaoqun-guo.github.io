@@ -18,11 +18,5 @@ main:
   - title: "Skills"
     url: "/#-skills"
  
-  # - title: "Invited Talks"
-    # url: "/#-invited-talks"
-
   - title: "Internships"
     url: "/#-internships"
-
-  - title: "Summary"
-    url: "/#-summary"
