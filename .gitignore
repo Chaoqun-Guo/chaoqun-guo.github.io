@@ -1,3 +1,4 @@
 _site/
-push.sh
+run_server.sh
 .DS_Store
+
