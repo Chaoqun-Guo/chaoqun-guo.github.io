@@ -34,11 +34,11 @@ With a solid technical foundation and rich practical experience, and can apply t
 <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>  -->
 <!-- (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-# 🔥 News
+<!-- # 🔥 News -->
 
-- _2025.04_: &nbsp;🀄️🎉 One paper was accepted by ICIC 2025.
-- _2025.02_: &nbsp;🀄️🎉 One paper was accepted by IJCCC.
-- _2023.10_: &nbsp;🀄️🎉 Two papers ware accepted by IEEE ICPADS 2023.
+<!-- - _2025.04_: &nbsp;🀄️🎉 One paper was accepted by ICIC 2025. -->
+<!-- - _2025.02_: &nbsp;🀄️🎉 One paper was accepted by IJCCC. -->
+<!-- - _2023.10_: &nbsp;🀄️🎉 Two papers ware accepted by IEEE ICPADS 2023. -->
 
 # 📝 Publications and Research Projects
 
@@ -60,16 +60,23 @@ Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 </div>
 </div> -->
 
-- <span style="color:red;">ICIC 2025</span>: [ A Communication-Efficient Federated Contrastive Learning Framework for Intrusion Detection](https://github.com). Chaoqun Guo, Jubao Cheng, Shunjie Yang, Dalin Zhang\*.
+- \[_2025.04_\]. <span style="color:red;">ICIC 2025</span>.
 
-- <span style="color:red;">IJCCC</span>: [ A Normalizing Flow-Based Semi-Supervised Method for Imbalanced Network Intrusion Detection](https://github.com). Chaoqun Guo, Shunjie Yang, Jubao Cheng, Dalin Zhang\*.
+  - [ A Communication-Efficient Federated Contrastive Learning Framework for Intrusion Detection](https://github.com). Chaoqun Guo, Jubao Cheng, Shunjie Yang, Dalin Zhang\*.
 
-- <span style="color:red;">ICPADS 2023</span>: [DTC: Addressing the Long-Tailed Problem in Intrusion Detection through the Divide-Then-Conquer Paradigm](https://ieeexplore.ieee.org/abstract/document/10476225). Chaoqun Guo, Nan Wang\*, Yuanlin Sun, Dalin Zhang.
-- <span style="color:red;">ICPADS 2023</span>: [Few-shot Messages-Enhanced Contrastive Learning for Graph Anomaly Detection](https://ieeexplore.ieee.org/document/10476155). Fan Xu, Nan Wang, Xuezhi Wen, Meiqi Gao, Chaoqun Guo, Xibin Zhao.
+- \[_2025.02_\]. <span style="color:red;">IJCCC</span>.
+
+  - [ A Normalizing Flow-Based Semi-Supervised Method for Imbalanced Network Intrusion Detection](https://github.com). Chaoqun Guo, Shunjie Yang, Jubao Cheng, Dalin Zhang\*.
+
+- \[_2023.10_\]. <span style="color:red;">ICPADS 2023</span>.
+
+  - [DTC: Addressing the Long-Tailed Problem in Intrusion Detection through the Divide-Then-Conquer Paradigm](https://ieeexplore.ieee.org/abstract/document/10476225). Chaoqun Guo, Nan Wang\*, Yuanlin Sun, Dalin Zhang.
+
+  - [Few-shot Messages-Enhanced Contrastive Learning for Graph Anomaly Detection](https://ieeexplore.ieee.org/document/10476155). Fan Xu, Nan Wang, Xuezhi Wen, Meiqi Gao, Chaoqun Guo, Xibin Zhao.
 
 ### Publication-Under Review
 
-- <span style="color:green;">ICNP 2025</span>:[]().
+- \[_2025.05_\]. <span style="color:green;">ICNP 2025</span>.
 
 ### Rearch Projects
 
