@@ -173,7 +173,19 @@ _2019.09 - 2023.03_, [Lenovo AI Lab](https://research;lenovo.com/), Beijing, Chi
 
 ---
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=250&t=n&d=cSEOsZzVjrIXWpVbyFzjnNkVdLfWBn_nwmme8Tfkp3U&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=250&t=n&d=cSEOsZzVjrIXWpVbyFzjnNkVdLfWBn_nwmme8Tfkp3U&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script> -->
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px; margin: 10px;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d6117.113819333634!2d116.32980630000004!3d39.95129979999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1748591565833!5m2!1sen!2s" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+  
+  <div style="flex: 1; min-width: 300px; margin: 10px;">
+    <script  type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=n&d=cSEOsZzVjrIXWpVbyFzjnNkVdLfWBn_nwmme8Tfkp3U&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+  </div>
+</div>
+
+---
+
 <div class="page__footer-copyright,right">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.
   Site PV: <span id="busuanzi_value_site_pv"></span> |
   Site UV: <span id="busuanzi_value_site_uv"></span> |
