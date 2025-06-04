@@ -42,7 +42,7 @@ redirect_from:
 
 # 🔍 Publications and Research Projects
 
-#### Publications-Accept. <font size=1>\*corresponding author</font>
+#### Publications-Accept <font size=1>\*corresponding author</font>
 
 <!-- <div class='paper-box'>
 <div class='paper-box-image'>
@@ -72,13 +72,13 @@ Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
   - [DTC: Addressing the Long-Tailed Problem in Intrusion Detection through the Divide-Then-Conquer Paradigm](https://ieeexplore.ieee.org/abstract/document/10476225). Chaoqun Guo, Nan Wang\*, Yuanlin Sun, Dalin Zhang.
 
-  - [Few-shot Messages-Enhanced Contrastive Learning for Graph Anomaly Detection](https://ieeexplore.ieee.org/document/10476155). Fan Xu, Nan Wang, Xuezhi Wen, Meiqi Gao, Chaoqun Guo, Xibin Zhao.
+  - [Few-shot Messages-Enhanced Contrastive Learning for Graph Anomaly Detection](https://ieeexplore.ieee.org/document/10476155). Fan Xu, Nan Wang\*, Xuezhi Wen, Meiqi Gao, Chaoqun Guo, Xibin Zhao.
 
-#### Publication-Under Review.
+#### Publication-Under Review
 
 - \[_2025.05_\]. <span style="color:green;">ICNP 2025</span>.
 
-#### Rearch Projects.
+#### Rearch Projects
 
 - CCF-NSFOCUS “Kunpeng” Fund: Research on Tracking and Detecting Potential APT Attacks Based on Traceability Graphs, 2023-2024, Participant
 
@@ -124,7 +124,7 @@ Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 _2019.09 - 2023.03_, [Lenovo AI Lab](https://research;lenovo.com/), Beijing, China.
 
-- **SIOT Project: Assist in predicting mobile phone parts failure and big data analysis.** [Project Leader]
+- **SIOT Project: Assist in Predicting Mobile Phone Parts Failure and Big Data Analysis.** [Project Leader]
 
   - Utilized Google Big Query system to identify and analyze blind spots in classification predictions (misclassifications, inaccurate predictions, etc.)
   - Proposed personalized data correction schemes for different models, batches, regions, etc., optimizing data accuracy for different products.
