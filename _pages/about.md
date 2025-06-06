@@ -77,7 +77,8 @@ Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 #### Publication-Under Review
 
-- \[_2025.05_\]. <span style="color:green;">ICNP 2025</span>.
+- \[_2025.05_\](https://icnp2025.hotcrp.com/). <span style="color:green;">ICNP 2025</span>.
+- \[_2025.06_\](https://conext25-june.hotcrp.com/). <span style="color:green;">CoNEXT'25(June)</span>.
 
 #### Rearch Projects
 
