@@ -173,8 +173,6 @@ _2019.09 - 2023.03_, [Lenovo AI Lab](https://research;lenovo.com/), Beijing, Chi
 
 ## <!-- # 🔗 Information -->
 
----
-
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=250&t=n&d=cSEOsZzVjrIXWpVbyFzjnNkVdLfWBn_nwmme8Tfkp3U&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script> -->
 <!-- <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px; margin: 10px;">
@@ -223,6 +221,8 @@ _2019.09 - 2023.03_, [Lenovo AI Lab](https://research;lenovo.com/), Beijing, Chi
     </script>
   </div>
 </div>
+
+---
 
 <!-- 页脚只保留版权信息 -->
 <div class="page__footer-copyright,right" style="text-align: center; margin-top: 20px;">
