@@ -61,17 +61,21 @@ Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 </div>
 </div> -->
 
+- \[_2025.09_\]. <span style="color:red;">Inscrypt 2025</span>
+
+  - [SS-DIL: Research on dynamic intrusion detection method based on semi-supervised and incremental learning](https://inscrypt2025.xidian.edu.cn/). Chaoqun Guo, Dalin Zhang\*.
+
 - \[_2025.08_\]. <span style="color:red;">ICNP 2025</span>.
 
-  - [ SCL-IDS: A Semi-Supervised Continual Learning Framework for Adaptive Intrusion Detection ](https://ieeeicnp2025.pages.dev/). Chaoqun Guo, Dalin Zhang\*.
+  - [SCL-IDS: A Semi-Supervised Continual Learning Framework for Adaptive Intrusion Detection](https://ieeeicnp2025.pages.dev/). Chaoqun Guo, Dalin Zhang\*.
 
 - \[_2025.04_\]. <span style="color:red;">ICIC 2025</span>.
 
-  - [ A Communication-Efficient Federated Contrastive Learning Framework for Intrusion Detection](https://link.springer.com/chapter/10.1007/978-981-96-9958-2_24). Chaoqun Guo, Jubao Cheng, Shunjie Yang, Dalin Zhang\*.
+  - [A Communication-Efficient Federated Contrastive Learning Framework for Intrusion Detection](https://link.springer.com/chapter/10.1007/978-981-96-9958-2_24). Chaoqun Guo, Jubao Cheng, Shunjie Yang, Dalin Zhang\*.
 
 - \[_2025.02_\]. <span style="color:red;">IJCCC</span>.
 
-  - [ A Normalizing Flow-Based Semi-Supervised Method for Imbalanced Network Intrusion Detection](https://fsja.univagora.ro/jour/index.php/ijccc/article/view/6890). Chaoqun Guo, Shunjie Yang, Jubao Cheng, Dalin Zhang\*.
+  - [A Normalizing Flow-Based Semi-Supervised Method for Imbalanced Network Intrusion Detection](https://fsja.univagora.ro/jour/index.php/ijccc/article/view/6890). Chaoqun Guo, Shunjie Yang, Jubao Cheng, Dalin Zhang\*.
 
 - \[_2023.10_\]. <span style="color:red;">ICPADS 2023</span>.
 
@@ -82,10 +86,10 @@ Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 #### Publication-Under Review
 
 <!-- - [\[_2025.05_\]](https://icnp2025.hotcrp.com/). <span style="color:green;">ICNP 2025</span>. -->
+<!-- - [\[_2025.06_\]](https://inscrypt2025.xidian.edu.cn/). <span style="color:green;">Inscrypt2025</span>. -->
 
 - [\[_2025.08_\]](https://www.mdpi.com/journal/futureinternet). <span style="color:green;">Future Internet</span>.
-- [\[_2025.06_\]](https://conext25-june.hotcrp.com/). <span style="color:green;">CoNEXT'25(June)</span>.
-- [\[_2025.06_\]](https://inscrypt2025.xidian.edu.cn/). <span style="color:green;">Inscrypt2025</span>.
+- [\[_2025.06_\]](https://conferences.sigcomm.org/co-next/2025/#!/home). <span style="color:green;">CoNEXT'25(June)</span>.
 
 #### Rearch Projects
 
