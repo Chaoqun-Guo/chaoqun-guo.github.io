@@ -61,7 +61,7 @@ Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 </div>
 </div> -->
 
-- \[_2025.09_\]. <span style="color:red;">Inscrypt 2025</span>
+- \[_2025.09_\]. <span style="color:red;">Inscrypt 2025</span>.
 
   - [SS-DIL: Research on dynamic intrusion detection method based on semi-supervised and incremental learning](https://inscrypt2025.xidian.edu.cn/). Chaoqun Guo, Dalin Zhang\*.
 
