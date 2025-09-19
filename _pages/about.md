@@ -89,7 +89,7 @@ Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 <!-- - [\[_2025.06_\]](https://inscrypt2025.xidian.edu.cn/). <span style="color:green;">Inscrypt2025</span>. -->
 
 - [\[_2025.08_\]](https://www.mdpi.com/journal/futureinternet). <span style="color:green;">Future Internet</span>.
-- [\[_2025.06_\]](https://conferences.sigcomm.org/co-next/2025/#!/home). <span style="color:green;">CoNEXT'25(June)</span>.
+<!-- - [\[_2025.06_\]](https://conferences.sigcomm.org/co-next/2025/#!/home). <span style="color:green;">CoNEXT'25(June)</span>. -->
 
 #### Rearch Projects
 
